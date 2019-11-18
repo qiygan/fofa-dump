@@ -1,0 +1,3 @@
+requests==2.22.0
+coloredlogs==10.0
+ipip-datx==0.4.0
