@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 .requirements.txt.swp
-
+.DS_Store
+.idea/
 # C extensions
 *.so
 
